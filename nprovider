@@ -1,4 +1,4 @@
-provider=http://d2ftczgfl2xwo1.cloudfront.net
-provider=http://d1kjuynapd7aps.cloudfront.net
-#provider=https://livexsports-redirect.cfapps.io/api/redirect/
-#provider=https://dry-sierra-94326.herokuapp.com/
+http://d2ftczgfl2xwo1.cloudfront.net
+http://d1kjuynapd7aps.cloudfront.net
+#https://livexsports-redirect.cfapps.io/api/redirect/
+#https://dry-sierra-94326.herokuapp.com/
