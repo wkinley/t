@@ -1,1 +1,31 @@
-content Tue Jun 12 11:12:42 CST 2018
+ private static GitHub github;
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) throws IOException {
+        long start = System.currentTimeMillis();
+        github = GitHub.connectUsingPassword("wkinley", "1*****git");
+        long afterConnect = System.currentTimeMillis();
+        System.out.println("connect:" + (afterConnect - start) + "ms");
+        updateFile();
+        long afterUpdate = System.currentTimeMillis();
+        System.out.println("update:" + (afterUpdate - afterConnect) + "ms");
+
+
+    }
+
+    private static void updateFile() throws IOException {
+        GHRepository repository = github.getRepository("wkinley/t");
+        String content = "content " + new Date();
+        String filePath = "test3.txt";
+        String comment = "comment msg";
+        GHContentUpdateResponse response;
+        try {
+            GHContent ghContent = repository.getFileContent(filePath);
+            response = ghContent.update(content, comment);
+        } catch (java.io.FileNotFoundException e) {
+            response = repository.createContent(content, comment, filePath);
+        }
+        System.out.println("Commit:" + response.getCommit().getSHA1());
+    }
