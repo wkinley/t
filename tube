@@ -1,4 +1,4 @@
-client=192.168.1.53
+client=192.168.2.103
 server=
 ss=jp02
 ssu=jp02,us03
