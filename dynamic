@@ -4,3 +4,12 @@ FS1(1425)|http://2cbd10.streamery.xyz/tv/lbfs1_110.m3u8
 FS1(2121)|http://2cbd10.streamery.xyz/tv/lbfs1_104.m3u8
 FS1(2928)|http://df3442.streamery.xyz/tv/lbfs1_112.m3u8
 TE|http://wawastream.xyz/sonyx.php?channel=TWpVM05UUT0=
+NSCN|https://nbc-nbcsportsnetwork-live-sonytv-i.secure.footprint.net/npid=060EF2A406A98BF68E62DC8CA41C92D414B7BB197AD1C55BD5A8B4FA79331756&deviceid=web3-w&e=1541918352&hmac=f00636be90241feb9e919d26295947940a507bc7/PROD01/sony/NBC_NBCSPORTSNETWORK/live/master_wired_ads.m3u8
+nbcs|https://nbc-nbcsportsnetwork-live-sonytv-i.akamaihd.net/npid=060EF2A406A98BF68E62DC8CA41C92D414B7BB197AD1C55BD5A8B4FA79331756&deviceid=web3-w&e=1541918352&hmac=f00636be90241feb9e919d26295947940a507bc7/PROD01/sony/NBC_NBCSPORTSNETWORK/live/master_wired_ads.m3u8
+fs1|https://fox-foxsports1-live-sonytv-i.akamaihd.net/npid=060EF2A406A98BF68E62DC8CA41C92D414B7BB197AD1C55BD5A8B4FA79331756&deviceid=web3-w&e=1541918450&hmac=89dcacba61011c5db8532022e7cbc828a37bc9ba/PROD11/sony/FOX_FOXSPORTS1/live/master_wired.m3u8
+espn|https://demn-espn-live-sonytv-i.akamaihd.net/npid=060EF2A406A98BF68E62DC8CA41C92D414B7BB197AD1C55BD5A8B4FA79331756&deviceid=web3-w&e=1541918492&hmac=f5d58bbf442edbfa9b008c9b97a8352d945d172d/PROD09/sony/DEMN_ESPN/live/master_wired_ads.m3u8
+espn2|https://demn-espn2-live-sonytv-i.akamaihd.net/npid=060EF2A406A98BF68E62DC8CA41C92D414B7BB197AD1C55BD5A8B4FA79331756&deviceid=web3-w&e=1541918536&hmac=5f7bd48c994870622bff9541da64dd50002b0fbd/PROD08/sony/DEMN_ESPN2/live/master_wired_ads.m3u8
+abc|https://abc-kabc-lax-live-sonytv-i.akamaihd.net/npid=060EF2A406A98BF68E62DC8CA41C92D414B7BB197AD1C55BD5A8B4FA79331756&deviceid=web3-w&e=1541918638&hmac=9aaa95d2ba59bc129dc82db880f76d4749303a28/PROD11/sony/ABC_KABC_LAX/live/master_wired.m3u8
+nbc|https://nbc-knbc-lax-live-sonytv-i.akamaihd.net/npid=060EF2A406A98BF68E62DC8CA41C92D414B7BB197AD1C55BD5A8B4FA79331756&deviceid=web3-w&e=1541918667&hmac=dbce1a2bd2c8a52ffee24bd6b35d656c9798ef6c/PROD03/sony/NBC_KNBC_LAX/live/master_wired.m3u8
+fox|https://fox-kttv-lax-live-sonytv-i.akamaihd.net/npid=060EF2A406A98BF68E62DC8CA41C92D414B7BB197AD1C55BD5A8B4FA79331756&deviceid=web3-w&e=1541918722&hmac=d4978ec7c397474419be8671336efad543e7b3bd/PROD06/sony/FOX_KTTV_LAX/live/master_wired.m3u8
+nbatv|https://nbatv-nbatv-live-sonytv-i.akamaihd.net/npid=060EF2A406A98BF68E62DC8CA41C92D414B7BB197AD1C55BD5A8B4FA79331756&deviceid=web3-w&e=1541918958&hmac=8ee68f98b4f184f593b05870082cc9da25184a39/PROD07/sony/NBATV_NBATV/live/master_wired.m3u8
