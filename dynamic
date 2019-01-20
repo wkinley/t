@@ -1,4 +1,5 @@
 por-den15|http://bil5.azureedge.net/hls/6.m3u8
 por-den8|http://bil2.azureedge.net/hls/6.m3u8
+abc|http://b61c73bad67c396d141e0e21c19997213b0195b28250500.azureedge.net/hls/1a.m3u8
 epl540|https://hilivegpers.azureedge.net/d926a170-f82e-4415-b728-598a04591572/63ef3a95-386b-4293-a479-a878007676f3.ism/QualityLevels(2200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio).m3u8
 epl720|https://hilivegpers.azureedge.net/d926a170-f82e-4415-b728-598a04591572/63ef3a95-386b-4293-a479-a878007676f3.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio).m3u8
