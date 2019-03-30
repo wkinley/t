@@ -2,7 +2,7 @@ client=192.168.1.151
 server=
 ss=jp02
 ssu=jp02,us03
-m=akc,l3c
+m=akc,llc,aksc,l3c
 crossfox=none,http://www.corsify.me/,http://kehoru.herokuapp.com/
 skey=@mMofM43gc
 tv2=http://mygoodstream.pw/sony/sony2.php?id=
