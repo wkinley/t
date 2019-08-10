@@ -3,11 +3,11 @@
 1-3|http://cdn.youpit.site/live/yp3/chunks.m3u8
 1-4|http://cdn.youpit.site/live/yp4/chunks.m3u8
 1-5|http://cdn.youpit.site/live/yp5/chunks.m3u8
-sky-liv|http://cdn2.youpit.site/live/yp5/chunks.m3u8
-tsn4|http://cdn2.youpit.site/live/yp3/chunks.m3u8
-sportsnet|http://cdn2.youpit.site/live/yp5/chunks.m3u8
-skyDe2|http://cdn2.youpit.site/live/yp4/chunks.m3u8
-skyDe3|http://cdn2.youpit.site/live/yp6/chunks.m3u8
+1-6|http://cdn.youpit.site/live/yp6/chunks.m3u8
+1-7|http://cdn.youpit.site/live/yp7/chunks.m3u8
+1-8|http://cdn.youpit.site/live/yp8/chunks.m3u8
+1-9|http://cdn.youpit.site/live/yp9/chunks.m3u8
+1-10|http://cdn.youpit.site/live/yp10/chunks.m3u8
 tsn|http://cdn2.youpit.site/live/yp7/chunks.m3u8
 tbs|https://wowzaprod258-i.akamaihd.net/hls/live/794383/4f5c3de3_1_2428/chunklist.m3u8
 tbs2|http://dus.kxexrq9z1fk9.ga/hls/ncaa1.m3u8
