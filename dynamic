@@ -7,7 +7,7 @@
 1-7|http://cdn.youpit.site/live/yp7/chunks.m3u8
 1-8|http://cdn.youpit.site/live/yp8/chunks.m3u8
 1-9|http://cdn.youpit.site/live/yp9/chunks.m3u8
-1-10|http://cdn.youpit.site/live/yp10/chunks.m3u8
+1-N|http://cdn.youpit.site/live/ypn/chunks.m3u8
 2-1|http://cdn2.youpit.site/live/yp1/chunks.m3u8
 2-2|http://cdn2.youpit.site/live/yp2/chunks.m3u8
 2-3|http://cdn2.youpit.site/live/yp3/chunks.m3u8
@@ -17,7 +17,7 @@
 2-7|http://cdn2.youpit.site/live/yp7/chunks.m3u8
 2-8|http://cdn2.youpit.site/live/yp8/chunks.m3u8
 2-9|http://cdn2.youpit.site/live/yp9/chunks.m3u8
-2-10|http://cdn2.youpit.site/live/yp10/chunks.m3u8
+2-N|http://cdn2.youpit.site/live/ypn/chunks.m3u8
 3-1|http://cdn3.youpit.site/live/yp1/chunks.m3u8
 3-2|http://cdn3.youpit.site/live/yp2/chunks.m3u8
 3-3|http://cdn3.youpit.site/live/yp3/chunks.m3u8
@@ -27,7 +27,7 @@
 3-7|http://cdn3.youpit.site/live/yp7/chunks.m3u8
 3-8|http://cdn3.youpit.site/live/yp8/chunks.m3u8
 3-9|http://cdn3.youpit.site/live/yp9/chunks.m3u8
-3-10|http://cdn3.youpit.site/live/yp10/chunks.m3u8
+3-N|http://cdn3.youpit.site/live/ypn/chunks.m3u8
 4-1|http://cdn4.youpit.site/live/yp1/chunks.m3u8
 4-2|http://cdn4.youpit.site/live/yp2/chunks.m3u8
 4-3|http://cdn4.youpit.site/live/yp3/chunks.m3u8
@@ -37,7 +37,7 @@
 4-7|http://cdn4.youpit.site/live/yp7/chunks.m3u8
 4-8|http://cdn4.youpit.site/live/yp8/chunks.m3u8
 4-9|http://cdn4.youpit.site/live/yp9/chunks.m3u8
-4-10|http://cdn4.youpit.site/live/yp10/chunks.m3u8
+4-N|http://cdn4.youpit.site/live/ypn/chunks.m3u8
 5-1|http://cdn5.youpit.site/live/yp1/chunks.m3u8
 5-2|http://cdn5.youpit.site/live/yp2/chunks.m3u8
 5-3|http://cdn5.youpit.site/live/yp3/chunks.m3u8
@@ -47,4 +47,4 @@
 5-7|http://cdn5.youpit.site/live/yp7/chunks.m3u8
 5-8|http://cdn5.youpit.site/live/yp8/chunks.m3u8
 5-9|http://cdn5.youpit.site/live/yp9/chunks.m3u8
-5-10|http://cdn5.youpit.site/live/yp10/chunks.m3u8
+5-N|http://cdn5.youpit.site/live/ypn/chunks.m3u8
