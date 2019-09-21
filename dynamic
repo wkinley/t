@@ -49,3 +49,5 @@
 60-a8|http://acdn60.youpit.site/live/yp8/chunks.m3u8
 60-a9|http://acdn60.youpit.site/live/yp9/chunks.m3u8
 60-an|http://acdn60.youpit.site/live/ypn/chunks.m3u8
+fox|https://teleupmsl.akamaized.net/hls/live/2004009/wpmtmsl/playlist.m3u8?set-segment-duration=quality&hdnea=st=1569077731~exp=1569099331~acl=!*/*!/payload/yupptvott_5_2325782_b5d5848c-75ee-2ae6-8e90-0309ba48c7d0_US_212.103.48.115_ustvnow_3_channel_78_-1/*~data=yupptvott_5_2325782_b5d5848c-75ee-2ae6-8e90-0309ba48c7d0_US_212.103.48.115_ustvnow_3_channel_78_-1~hmac=f86a262aeb60b028f6cf985a2df24be787f7bf7a98bb8454a2cebd3b4d087db6
+cbs|https://teleupmsl.akamaized.net/hls/live/2004009/whphdmsl/playlist.m3u8?set-segment-duration=quality&hdnea=st=1569077647~exp=1569099247~acl=!*/*!/payload/yupptvott_5_2325782_b5d5848c-75ee-2ae6-8e90-0309ba48c7d0_US_212.103.48.115_ustvnow_3_channel_60_-1/*~data=yupptvott_5_2325782_b5d5848c-75ee-2ae6-8e90-0309ba48c7d0_US_212.103.48.115_ustvnow_3_channel_60_-1~hmac=e09623f821d00d86523fc3f83c840f93c08b50bfb470bdbd5b4d14be09c53353
