@@ -53,3 +53,9 @@ fox1800|https://teleupmsl.akamaized.net/hls/live/2004009/wpmtmsl/wpmt_1500/chunk
 cbs|https://teleupmsl.akamaized.net/hls/live/2004009/whphdmsl/playlist.m3u8?set-segment-duration=quality&hdnea=st=1569077647~exp=1569099247~acl=!*/*!/payload/yupptvott_5_2325782_b5d5848c-75ee-2ae6-8e90-0309ba48c7d0_US_212.103.48.115_ustvnow_3_channel_60_-1/*~data=yupptvott_5_2325782_b5d5848c-75ee-2ae6-8e90-0309ba48c7d0_US_212.103.48.115_ustvnow_3_channel_60_-1~hmac=e09623f821d00d86523fc3f83c840f93c08b50bfb470bdbd5b4d14be09c53353
 cbs1800|https://teleupmsl.akamaized.net/hls/live/2004009/whphdmsl/whphd_1500/chunklist.m3u8?hdntl=exp=1569166352~acl=/*~data=hdntl~hmac=94b64d5ce4ebe39c4082869ea5b765aee4beaef897b2e129cd3726d555532f8a
 abc|http://zubacz.xyz/watch/abc/qual/720.m3u8
+abc-youpit|http://cdn.youpit.site/live/abc/chunks.m3u8
+cbs-youpit|http://cdn.youpit.site/live/cbs/chunks.m3u8
+fox-youpit|http://cdn.youpit.site/live/fox/chunks.m3u8
+espn-youpit|http://cdn.youpit.site/live/espn/chunks.m3u8
+espn2-youpit|http://cdn.youpit.site/live/espn2/chunks.m3u8
+
