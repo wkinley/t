@@ -1,5 +1,10 @@
 bt1|http://cdn.youpit.site/live/btsport1/chunks.m3u8
 nbcsn|http://cdn.youpit.site/live/nbcsn/chunks.m3u8
+nbcg1|http://cdn.youpit.site/live/nbcg1/chunks.m3u8
+nbcg2|http://cdn.youpit.site/live/nbcg2/chunks.m3u8
+nbcg3|http://cdn.youpit.site/live/nbcg3/chunks.m3u8
+nbvg4|http://cdn.youpit.site/live/nbcg4/chunks.m3u8
+nbcg5|http://cdn.youpit.site/live/nbcg5/chunks.m3u8
 fs1|http://cdn.youpit.site/live/fs1/chunks.m3u8
 fs2|http://cdn.youpit.site/live/fs2/chunks.m3u8
 abc|http://zubacz.xyz/watch/abc/qual/720.m3u8
