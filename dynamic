@@ -5,6 +5,9 @@ nbcg2|http://cdn.youpit.site/live/nbcg2/chunks.m3u8
 nbcg3|http://cdn.youpit.site/live/nbcg3/chunks.m3u8
 nbvg4|http://cdn.youpit.site/live/nbcg4/chunks.m3u8
 nbcg5|http://cdn.youpit.site/live/nbcg5/chunks.m3u8
+nbcg11|http://cdn.60fps.live/live/g1/chunks.m3u8
+nbcg12|http://cdn.60fps.live/live/g2/chunks.m3u8
+nbcg13|http://cdn.60fps.live/live/g1/chunks.m3u8
 fs1|http://cdn.youpit.site/live/fs1/chunks.m3u8
 sn|http://cdn.youpit.site/live/sn/chunks.m3u8
 fs2|http://cdn.youpit.site/live/fs2/chunks.m3u8
