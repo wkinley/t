@@ -29,6 +29,7 @@ btn|http://allenz.xyz/neinz/video/btn/e.m3u8
 fox-e|http://allenz.xyz/neinz/video/fox/e.m3u8
 fox-d|http://allenz.xyz/neinz/video/fox/d.m3u8
 fox-2|http://cdn.sports24.win/get.m3u8?ch=foxny
+espn-sp24|http://cdn.sports24.win/espn.m3u8
 espn-e|http://allenz.xyz/neinz/video/espn/e.m3u8
 espn-d|http://allenz.xyz/neinz/video/espn/d.m3u8
 fs1-yrsprts|http://yrsprts.xyz/hls/c.m3u8?ch=FS1&q=pkgFS1Lo.m3u8
