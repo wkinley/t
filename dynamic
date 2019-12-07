@@ -1,12 +1,9 @@
-lac|http://23.237.109.187/nba8/index.m3u8?md5=rIE832RFSIgCkuW-JrGlUA&expires=1575695342
-lac2|http://azurehjack.azureedge.net/live/Clippers/chunks.m3u8
-lac3|http://103.194.171.52:1935/hls/BOX-5/chunks.m3u8?nimblesessionid=20171500
-ars|http://cdn.youpits.com/live/sme/chunks.m3u8
 dal|http://ujrskfjsofksedfsd.gilsyakesghyaksen.xyz/live/11/chunks.m3u8
 abc|http://allenz.xyz/neinz/video/abc/i.m3u8
 nbcsn-ovo|http://34.76.96.98/live/vhi1/chunks.m3u8?nimblesessionid=494
 bt1|http://cdn.youpits.com/live/btsport1/chunks.m3u8
-nbcsn|http://cdn.youpits.com/live/nbcsn/chunks.m3u8
+nbcsn|http://cdn.60fps.live/live/nbcsn/chunks.m3u8
+nbcsncdn1|http://cdn1.60fps.live/live/nbcsn/chunks.m3u8
 nbcg1|http://cdn.60fps.live/live/nbcg1/chunks.m3u8
 nbcg2|http://cdn.60fps.live/live/nbcg2/chunks.m3u8
 nbcg3|http://cdn.60fps.live/live/nbcg3/chunks.m3u8
@@ -17,6 +14,7 @@ nbcg11|http://cdn.youpits.com/live/g1/chunks.m3u8
 nbcg12|http://cdn.youpits.com/live/g2/chunks.m3u8
 nbcg13|http://cdn.youpits.com/live/g1/chunks.m3u8
 fs1|http://cdn.60fps.live/live/fs1/chunks.m3u8
+fs1cdn1|http://cdn1.60fps.live/live/fs1/chunks.m3u8
 sn|http://cdn.60fps.live/live/sn/chunks.m3u8
 fs2|http://cdn.youpits.com/live/fs2/chunks.m3u8
 abc|http://zubacz.xyz/watch/abc/qual/720.m3u8
