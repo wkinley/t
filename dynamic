@@ -21,7 +21,8 @@ nbcg13|http://cdn.youpits.com/live/g1/chunks.m3u8
 fs1|http://cdn.60fps.live/live/fs1/chunks.m3u8
 fs1cdn1|http://cdn1.60fps.live/live/fs1/chunks.m3u8
 fs1temp|http://34.102.158.163/live/fs1/chunks.m3u8
-|sn|http://cdn.60fps.live/live/sn/chunks.m3u8
+fs1-weak|http://weak_spell.carniferou.club/edge/FS1/chunks.m3u8
+sn|http://cdn.60fps.live/live/sn/chunks.m3u8
 fs2|http://cdn.youpits.com/live/fs2/chunks.m3u8
 abc|http://zubacz.xyz/watch/abc/qual/720.m3u8
 abc-youpit|http://cdn.youpits.com/live/abc/chunks.m3u8
