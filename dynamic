@@ -8,6 +8,7 @@ nbcsn-weak|http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
 bt1|http://cdn.youpits.com/live/btsport1/chunks.m3u8
 nbcsn|http://cdn.60fps.live/live/nbcsn/chunks.m3u8
 nbcsncdn1|http://cdn1.60fps.live/live/nbcsn/chunks.m3u8
+nbcsntmp|http://34.102.158.163/live/nbcsn/chunks.m3u8
 nbcg1|http://cdn.60fps.live/live/nbcg1/chunks.m3u8
 nbcg2|http://cdn.60fps.live/live/nbcg2/chunks.m3u8
 nbcg3|http://cdn.60fps.live/live/nbcg3/chunks.m3u8
@@ -19,7 +20,8 @@ nbcg12|http://cdn.youpits.com/live/g2/chunks.m3u8
 nbcg13|http://cdn.youpits.com/live/g1/chunks.m3u8
 fs1|http://cdn.60fps.live/live/fs1/chunks.m3u8
 fs1cdn1|http://cdn1.60fps.live/live/fs1/chunks.m3u8
-sn|http://cdn.60fps.live/live/sn/chunks.m3u8
+fs1temp|http://34.102.158.163/live/fs1/chunks.m3u8
+|sn|http://cdn.60fps.live/live/sn/chunks.m3u8
 fs2|http://cdn.youpits.com/live/fs2/chunks.m3u8
 abc|http://zubacz.xyz/watch/abc/qual/720.m3u8
 abc-youpit|http://cdn.youpits.com/live/abc/chunks.m3u8
