@@ -1,9 +1,6 @@
 e60|http://crack.azureegde.net/lal.m3u8
 e1|http://cdn.60fpstv.com/playlist/0eea96a2c5416ec392695cbbf25760bc.m3u8
-utah|http://34.107.130.240/live/nba/chunks.m3u8
 cbs|http://34.102.207.198/live/cbs/chunks.m3u8
-epsn|http://cdn.60fpstv.com/playlist/0eea96a2c5416ec392695cbbf25760bc.m3u8
-espn|http://34.102.207.198/live/e/chunks.m3u8
 nfl|http://cdn.60fps.live/live/nfl2/chunks.m3u8
 fox1|http://23.237.109.187/fox/index.m3u8?md5=n1FdADHckRzIneKPbgy-GQ&expires=1575782106
 fox2|http://cfb127.azureedge.net/live/FOX/playlist.m3u8
@@ -14,7 +11,7 @@ nbcsn-weak|http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
 bt1|http://cdn.youpits.com/live/btsport1/chunks.m3u8
 nbcsn|http://cdn.60fps.live/live/nbcsn/chunks.m3u8
 nbcsncdn1|http://cdn1.60fps.live/live/nbcsn/chunks.m3u8
-nbcsntmp|http://34.102.207.198/live/nbcsn/chunks.m3u8
+nbcsntmp|http://34.107.130.240/live/nbcsn/chunks.m3u8
 nbcg1|http://cdn.60fps.live/live/nbcg1/chunks.m3u8
 nbcg2|http://cdn.60fps.live/live/nbcg2/chunks.m3u8
 nbcg3|http://cdn.60fps.live/live/nbcg3/chunks.m3u8
