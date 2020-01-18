@@ -1,3 +1,10 @@
+nba1|http://34.107.242.203/live/nba1/chunks.m3u8
+nba2|http://34.107.242.203/live/nba2/chunks.m3u8
+nba3|http://34.107.242.203/live/nba3/chunks.m3u8
+nba4|http://34.107.242.203/live/nba4/chunks.m3u8
+nba5|http://34.107.242.203/live/nba5/chunks.m3u8
+nba6|http://34.107.242.203/live/nba6/chunks.m3u8
+nba7|http://34.107.242.203/live/nba7/chunks.m3u8
 espn|http://crack.azureegde.net/espn.m3u8
 e2|http://185.233.186.32:8080/live/ESPN.m3u8
 e3|http://gma2.blab.email/fs2.m3u8
