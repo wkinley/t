@@ -87,9 +87,10 @@ CCTV15|http://ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
 CCTV15|http://ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 CCTV17|http://ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 
-CCTV4K 14M2160HDR|http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-CCTV4K 25M2160|http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
-CCTV4K 34M2160HDR|http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#https://github.com/SPX372928/MyIPTV/blob/master/%E6%B1%9F%E8%8B%8FPLTV%E7%A7%BB%E5%8A%A8CDN%E4%BF%AE%E6%94%B9%E7%89%88.txt
+CCTV4K14M|http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+CCTV4K25M|http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
+CCTV4K34M|http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 SiTV欢笑剧场 12M2160|http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 纯享4K 16M2160|http://183.207.248.110/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
 纯享4K 21M2160HDR|http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
