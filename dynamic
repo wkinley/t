@@ -1,7 +1,7 @@
 cctv4K|http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 cctv16|http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 cctv16|http://39.134.115.163:8080/PLTV/88888910/224/3221226230/index.m3u8
-五星体育|http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
+五星体育|http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #https://lifeizq.github.io/zbylf.txt
 劲爆体育|http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 cctv1|http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
@@ -106,11 +106,16 @@ CCTV14|http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 CCTV14|http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
 CCTV15|http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 bestv|1
-新视觉 1080|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+五星体育|http://121.51.74.85/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育|http://223.111.195.50/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+五星体育|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+劲爆体育|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+劲爆体育|http://223.111.195.50/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+新视觉|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+新视觉|https://epg.pm/stream/bcf11d27e2ce62a0b2dca5d8c81e2d6f66c725fe2e5b6eb82c2897074e4b8f7d.m3u8
 全纪实 1080|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 幸福彩 1080|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
 游戏风云 1080|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
-劲爆体育 1080|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 魅力足球 1080|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 欢笑剧场 1080|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 极速汽车 1080|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
@@ -121,5 +126,19 @@ bestv|1
 七彩戏剧 540540P|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qcxj/1300000/mnf.m3u8
 东方财经 540|http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
 
+CCTV5|https://epg.pm/stream/9cb8d0454ee8146627ca34f6384e3aa1b20f877663a8f19cf9bcc5d235479345.m3u8
+CCTV5+|https://epg.pm/stream/c118e92d2a37d26ce4fe53a7c91c887b8a18f1f2c029e3c0623a30f5d353d91a.m3u8
+CCTV16|https://epg.pm/stream/d979d4643331cc4484686f7ab58d4fecf9a4d58348a78f88394b49f1aef80572.m3u8
+CCTV8K|https://epg.pm/stream/02123924e8dd00170e5885f4657cb4047175b8c8ebc26d7b76bcab6099873546.m3u8
+北京纪实|https://epg.pm/stream/bbba75686985a3cb66966e2edc520a77fecb841ba195ac8cd3cee9c271ac7694.m3u8
+五星体育频道|https://epg.pm/stream/e42918449720be5c09034a46fae2a06a4b42bf71dbe008be257b3fa482872a4f.m3u8
+劲爆体育|https://epg.pm/stream/8d820c6530d50aeb7e2ae0c5e5f454940306a0045be4970a2d193dc040c1d483.m3u8
+广东体育|https://epg.pm/stream/fb4b50efd5ebb99d0e14012b038c2a6a9242acabce89ecce2f562f38a09237f5.m3u8
+NEWTV精品体育|https://epg.pm/stream/b34a8388908112b2eb6253b39d50173cd62ca4e5569a6a6b11562ed4ada00aff.m3u8
+NewTV超级体育|https://epg.pm/stream/865554891c7dd27e68fd479bdef492335db74d15984a18023277e6c1845a14a6.m3u8
+魅力足球|https://epg.pm/stream/a32057cef84c4b54e5311d45962f633e1931a4603a49cc11003617636161ce48.m3u8
+新视觉体育|https://epg.pm/stream/bcf11d27e2ce62a0b2dca5d8c81e2d6f66c725fe2e5b6eb82c2897074e4b8f7d.m3u8
+体育赛事|https://epg.pm/stream/e9fb9f6e95af7a83f888a9f76c5200587e13bc1488b534a2d89e51f3275cd63f.m3u8
+极速汽车|https://epg.pm/stream/576ae12d0c00ffecd15a77f72c6cafbedc97625037d2bf4bd1512ab064416991.m3u8
 
 
